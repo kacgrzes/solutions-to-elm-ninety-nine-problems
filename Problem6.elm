@@ -8,6 +8,7 @@ import Maybe
 isPalindrome : List a -> Bool
 isPalindrome xs =
     -- your implementation here
+    -- could be one liner ( List.reverse xs == xs ), but the one below does half less comparisons:
     let
         half =
             List.length xs // 2
