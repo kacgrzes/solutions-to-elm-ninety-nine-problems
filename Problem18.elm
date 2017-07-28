@@ -1,4 +1,4 @@
-module Main exposing (..)
+module Sublist exposing (..)
 
 import Array
 import Html

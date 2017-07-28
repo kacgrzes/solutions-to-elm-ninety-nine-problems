@@ -1,4 +1,4 @@
-module Main exposing (..)
+module Rotate exposing (..)
 
 import Html
 import List

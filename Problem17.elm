@@ -1,4 +1,4 @@
-module Main exposing (..)
+module Problem17 exposing (..)
 
 import Html exposing (text)
 import List

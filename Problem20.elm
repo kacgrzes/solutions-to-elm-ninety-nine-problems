@@ -1,4 +1,4 @@
-module Main exposing (..)
+module DropAt exposing (..)
 
 import Html
 import List

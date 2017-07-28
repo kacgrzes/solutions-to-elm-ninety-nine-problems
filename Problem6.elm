@@ -1,4 +1,4 @@
-module Main exposing (..)
+module Palindrome exposing (..)
 
 import Html
 import List
