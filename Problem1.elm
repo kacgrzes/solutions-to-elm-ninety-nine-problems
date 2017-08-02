@@ -15,8 +15,8 @@ last xs =
         [ x ] ->
             Just x
 
-        x :: xs ->
-            last xs
+        head :: tail ->
+            last tail
 
 
 main : Html.Html a
